@@ -23,6 +23,8 @@ It contains:
 
 ## Not tested:
 - USB-C / Thunderbold port
+
+## Not working
 - Micro SD Card Slot
 
 ## How To:
