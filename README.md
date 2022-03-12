@@ -7,7 +7,7 @@ More info here: https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/Storage.
 
 It contains:
 - OpenCore version 0.7.6
-- All the kexts and patch needed to run MacOS Monterey 12.1 on your Lenovo T490
+- All the kexts and patch needed to run MacOS Monterey 12.2.1 on your Lenovo T490
 - config.plist (but you need to configure your ROM, MLB, etc.. to suit your needs)
 
 ## Working:
