@@ -1,5 +1,8 @@
 # t490-hackintosh
 
+## Updates:
+Working with Monterey 12.4 :)
+
 ## Infos:
 This repo contains files needed to "Hackintosh" your Lenovo T490, model number 20NL-000LFR (Core i7, 16GB RAM)
 You have to change your drive if your model is a Samsung P981. This model encounter some errors when it used with macOS.
