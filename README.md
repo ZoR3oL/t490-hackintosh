@@ -1,7 +1,7 @@
 # t490-hackintosh
 
 ## Updates:
-Working with Monterey 12.4 :)
+31/10/2022: Working with Ventura 13.0 !
 
 ## Infos:
 This repo contains files needed to "Hackintosh" your Lenovo T490, model number 20NL-000LFR (Core i7, 16GB RAM)
@@ -9,8 +9,8 @@ You have to change your drive if your model is a Samsung P981. This model encoun
 More info here: https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/Storage.html
 
 It contains:
-- OpenCore version 0.7.6
-- All the kexts and patch needed to run MacOS Monterey 12.2.1 on your Lenovo T490
+- OpenCore version 0.8.5
+- All the kexts and patch needed to run MacOS Ventura 13.0 on your Lenovo T490
 - config.plist (but you need to configure your ROM, MLB, etc.. to suit your needs)
 
 ## Working:
