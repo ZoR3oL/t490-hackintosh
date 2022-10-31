@@ -1,5 +1,9 @@
 # t490-hackintosh
 
+## Screenshot:
+![Capture d’écran 2022-10-31 à 19 21 01](https://user-images.githubusercontent.com/86233/199081421-07b3ed98-4b7d-444c-8da8-aaf7bccb7a10.png)
+
+
 ## Updates:
 31/10/2022: Working with Ventura 13.0 !
 
